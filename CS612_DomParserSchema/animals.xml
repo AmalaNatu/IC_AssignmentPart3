@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<animals>
+<animal>
+<name>Dog</name>
+<breed>Rottweiler</breed>
+</animal>
+<animal>
+<name>Rabbit</name>
+<breed>Angora rabbit</breed>
+</animal>
+<animal>
+<name>Fish</name>
+<breed>koi</breed>
+</animal>
+</animals>
